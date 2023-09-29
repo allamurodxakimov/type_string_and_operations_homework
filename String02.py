@@ -6,4 +6,6 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s = "Salom Dunyo ,hello Codeacademy"
+    return s.upper()
+print(main())
