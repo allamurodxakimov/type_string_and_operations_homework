@@ -7,4 +7,6 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return 
+    d = "({}+{})*2={}".format(x,y,2*(x+y))
+    return d
+print(main(3,4))
