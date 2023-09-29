@@ -7,4 +7,5 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    return 
+    return (f"{last},{first}").title()
+print(main("allamurod","xakimov"))
