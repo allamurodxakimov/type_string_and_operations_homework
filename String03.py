@@ -6,4 +6,7 @@ def main():
     Returns:
         str: return answer.
     """
-    return 
+    s='*'
+    return s*5
+print("Uzunligi =>",len(main()))
+print("Satr => ",main())
